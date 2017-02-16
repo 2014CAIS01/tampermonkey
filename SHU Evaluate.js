@@ -15,4 +15,5 @@
     {
         x[i].selectedIndex = 1;
     }
+    SaveEvaluate();
 })();
